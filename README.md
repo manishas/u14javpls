@@ -1,2 +1,2 @@
 # u14javpls
-Docker image for java on ubuntu 14.04 with services and tools pre-installed.
+Ubuntu 14.04 + jav image preinstalled with services and tools
